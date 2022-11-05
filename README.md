@@ -6,3 +6,7 @@
 # Solarium-Client
 A Minecraft Hacked client for 1.12.2
 Oyvey Skid
+
+Modules
+
+Oyvey Modules+ Radar+,Soalrium Kill Aura(Dogshit)
