@@ -10,3 +10,5 @@ Oyvey Skid
 Modules
 
 Oyvey Modules+ Radar+,Soalrium Kill Aura(Dogshit)
+
+İ regret everything about this project
